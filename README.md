@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: ConcurrentModificationException. The bug is caused by modifying a list while iterating over it using an enhanced for loop (for-each). The solution demonstrates how to safely modify a list during iteration using an iterator.
